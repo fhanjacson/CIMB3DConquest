@@ -48,7 +48,7 @@ public class Login2Auth extends Register_Pattern  implements SurfaceHolder.Callb
     Camera.ShutterCallback shutterCallback;
     Camera.PictureCallback jpegCallback;
     Button start, compare, capture;
-    BasicAWSCredentials awscred = new BasicAWSCredentials("AKIAIO667S4CLKPRWLKQ", "5kViAMSzCq8+4SzGvMK7qP2nMC+N3SffunhjQ+6F");
+    BasicAWSCredentials awscred = new BasicAWSCredentials("yourIAMAccessKey", "ourIAMSecretKey");
     Boolean patterncorrect = false;
 
 //    LoginActivity loginActivity = new LoginActivity();
