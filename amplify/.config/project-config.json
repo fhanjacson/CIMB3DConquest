@@ -1,0 +1,16 @@
+{
+    "projectName": "CIMB3DConquest",
+    "projectPath": "C:\\Users\\Jacson\\Desktop\\CIMB3DConquest",
+    "defaultEditor": "sublime",
+    "frontendHandler": {
+        "android": "C:\\Users\\Jacson\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-frontend-android"
+    },
+    "amplify-frontend-android": {
+        "config": {
+            "ResDir": "app/src/main/res"
+        }
+    },
+    "providers": {
+        "awscloudformation": "C:\\Users\\Jacson\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-provider-awscloudformation"
+    }
+}
